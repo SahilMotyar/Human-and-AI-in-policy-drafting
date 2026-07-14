@@ -1,0 +1,4 @@
+condition,n,bert_mean,bert_std,jsd_mean,jsd_std,tfidf_mean,tfidf_std
+Innovation,60,0.6006,0.0198,0.6781,0.0306,0.6054,0.1911
+Status Quo,60,0.6498,0.0357,0.5685,0.0621,0.3881,0.1634
+Unconstrained,60,0.6156,0.0261,0.6262,0.048,0.4997,0.2021

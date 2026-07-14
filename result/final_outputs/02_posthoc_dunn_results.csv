@@ -1,0 +1,62 @@
+Unnamed: 0,Air Pollution,Data Protection,National Security,source_file,Innovation,Status Quo,Unconstrained,metric,group1,group2,U_stat,p_value,rank_biserial_r,significant
+Air Pollution,1.0,0.0145352142130152,4.2603596620457575e-15,dunn_Authority_Loyalty_Score_domain.csv,,,,,,,,,,
+Data Protection,0.0145352142130152,1.0,1.0230185376248206e-26,dunn_Authority_Loyalty_Score_domain.csv,,,,,,,,,,
+National Security,4.2603596620457575e-15,1.0230185376248206e-26,1.0,dunn_Authority_Loyalty_Score_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_bert_score_f1_condition.csv,1.0,1.0507278647311835e-14,0.0067423628218365,,,,,,,
+Status Quo,,,,dunn_bert_score_f1_condition.csv,1.0507278647311835e-14,1.0,4.3908319646580166e-06,,,,,,,
+Unconstrained,,,,dunn_bert_score_f1_condition.csv,0.0067423628218365,4.3908319646580166e-06,1.0,,,,,,,
+Air Pollution,1.0,2.0278073057623305e-15,0.6464404329566076,dunn_bert_score_f1_domain.csv,,,,,,,,,,
+Data Protection,2.0278073057623305e-15,1.0,2.4404550389329158e-11,dunn_bert_score_f1_domain.csv,,,,,,,,,,
+National Security,0.6464404329566076,2.4404550389329158e-11,1.0,dunn_bert_score_f1_domain.csv,,,,,,,,,,
+Air Pollution,1.0,3.0611993319820653e-14,0.0125313613638944,dunn_Care_Fairness_Score_domain.csv,,,,,,,,,,
+Data Protection,3.0611993319820653e-14,1.0,8.829694735705806e-26,dunn_Care_Fairness_Score_domain.csv,,,,,,,,,,
+National Security,0.0125313613638944,8.829694735705806e-26,1.0,dunn_Care_Fairness_Score_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_hedge_density_condition.csv,1.0,0.2239425463116075,0.7578299107619034,,,,,,,
+Status Quo,,,,dunn_hedge_density_condition.csv,0.2239425463116075,1.0,0.0102787941467059,,,,,,,
+Unconstrained,,,,dunn_hedge_density_condition.csv,0.7578299107619034,0.0102787941467059,1.0,,,,,,,
+Air Pollution,1.0,0.3332034516513701,0.0022702146330354,dunn_hedge_density_domain.csv,,,,,,,,,,
+Data Protection,0.3332034516513701,1.0,0.2278223581333199,dunn_hedge_density_domain.csv,,,,,,,,,,
+National Security,0.0022702146330354,0.2278223581333199,1.0,dunn_hedge_density_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_jsd_score_condition.csv,1.0,1.1807220360233636e-20,7.154272094670987e-07,,,,,,,
+Status Quo,,,,dunn_jsd_score_condition.csv,1.1807220360233636e-20,1.0,5.922909603851945e-05,,,,,,,
+Unconstrained,,,,dunn_jsd_score_condition.csv,7.154272094670987e-07,5.922909603851945e-05,1.0,,,,,,,
+Air Pollution,1.0,1.1796706459446829e-13,0.0596795750625184,dunn_jsd_score_domain.csv,,,,,,,,,,
+Data Protection,1.1796706459446829e-13,1.0,4.953304845515884e-07,dunn_jsd_score_domain.csv,,,,,,,,,,
+National Security,0.0596795750625184,4.953304845515884e-07,1.0,dunn_jsd_score_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_mattr_condition.csv,1.0,9.186318125284875e-21,2.0021874855415022e-10,,,,,,,
+Status Quo,,,,dunn_mattr_condition.csv,9.186318125284875e-21,1.0,0.0100781616814934,,,,,,,
+Unconstrained,,,,dunn_mattr_condition.csv,2.0021874855415022e-10,0.0100781616814934,1.0,,,,,,,
+Air Pollution,1.0,7.418390954817264e-11,0.0667085209642465,dunn_mattr_domain.csv,,,,,,,,,,
+Data Protection,7.418390954817264e-11,1.0,3.421495978621515e-05,dunn_mattr_domain.csv,,,,,,,,,,
+National Security,0.0667085209642465,3.421495978621515e-05,1.0,dunn_mattr_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_mean_sent_len_condition.csv,1.0,1.0931656009503865e-07,0.0450813956858776,,,,,,,
+Status Quo,,,,dunn_mean_sent_len_condition.csv,1.0931656009503865e-07,1.0,0.006302999472926,,,,,,,
+Unconstrained,,,,dunn_mean_sent_len_condition.csv,0.0450813956858776,0.006302999472926,1.0,,,,,,,
+Air Pollution,1.0,0.0173288641523424,1.0,dunn_mean_sent_len_domain.csv,,,,,,,,,,
+Data Protection,0.0173288641523424,1.0,0.0226374955169075,dunn_mean_sent_len_domain.csv,,,,,,,,,,
+National Security,1.0,0.0226374955169075,1.0,dunn_mean_sent_len_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_sent_len_var_condition.csv,1.0,6.747720299285002e-18,0.0007118330607029,,,,,,,
+Status Quo,,,,dunn_sent_len_var_condition.csv,6.747720299285002e-18,1.0,1.203372573223727e-06,,,,,,,
+Unconstrained,,,,dunn_sent_len_var_condition.csv,0.0007118330607029,1.203372573223727e-06,1.0,,,,,,,
+Innovation,,,,dunn_Technocratic_Framing_Score_condition.csv,1.0,1.0055809829789553e-05,0.0003923314916626,,,,,,,
+Status Quo,,,,dunn_Technocratic_Framing_Score_condition.csv,1.0055809829789553e-05,1.0,1.0,,,,,,,
+Unconstrained,,,,dunn_Technocratic_Framing_Score_condition.csv,0.0003923314916626,1.0,1.0,,,,,,,
+Air Pollution,1.0,0.0535608244655324,0.076584395791996,dunn_Technocratic_Framing_Score_domain.csv,,,,,,,,,,
+Data Protection,0.0535608244655324,1.0,1.2556249011429328e-05,dunn_Technocratic_Framing_Score_domain.csv,,,,,,,,,,
+National Security,0.076584395791996,1.2556249011429328e-05,1.0,dunn_Technocratic_Framing_Score_domain.csv,,,,,,,,,,
+Innovation,,,,dunn_US_Distinctive_Term_Frequency_condition.csv,1.0,0.0493957626200276,0.3291011313191965,,,,,,,
+Status Quo,,,,dunn_US_Distinctive_Term_Frequency_condition.csv,0.0493957626200276,1.0,0.0001916582316227,,,,,,,
+Unconstrained,,,,dunn_US_Distinctive_Term_Frequency_condition.csv,0.3291011313191965,0.0001916582316227,1.0,,,,,,,
+Air Pollution,1.0,0.0051072574738101,0.0148961455246746,dunn_US_Distinctive_Term_Frequency_domain.csv,,,,,,,,,,
+Data Protection,0.0051072574738101,1.0,8.191290007089236e-09,dunn_US_Distinctive_Term_Frequency_domain.csv,,,,,,,,,,
+National Security,0.0148961455246746,8.191290007089236e-09,1.0,dunn_US_Distinctive_Term_Frequency_domain.csv,,,,,,,,,,
+,,,,model_pairwise_comparison.csv,,,,jsd_score,ChatGPT,Gemini,3998.0,0.88286489605903,0.0128395061728394,No
+,,,,model_pairwise_comparison.csv,,,,bert_score_f1,ChatGPT,Gemini,3344.0,0.0435502932340527,0.174320987654321,Yes
+,,,,model_pairwise_comparison.csv,,,,mattr,ChatGPT,Gemini,4180.0,0.7110160888634933,-0.0320987654320987,No
+,,,,model_pairwise_comparison.csv,,,,hedge_density,ChatGPT,Gemini,5457.0,5.7237100396139245e-05,-0.3474074074074074,Yes
+,,,,model_pairwise_comparison.csv,,,,mean_sent_len,ChatGPT,Gemini,1610.0,2.967145092710808e-12,0.6024691358024692,Yes
+,,,,model_pairwise_comparison.csv,,,,sent_len_var,ChatGPT,Gemini,4231.0,0.6055752328442311,-0.0446913580246912,No
+,,,,model_pairwise_comparison.csv,,,,Care_Fairness_Score,ChatGPT,Gemini,5064.5,0.0037196899221427,-0.2504938271604937,Yes
+,,,,model_pairwise_comparison.csv,,,,Authority_Loyalty_Score,ChatGPT,Gemini,4512.0,0.1867261718693994,-0.114074074074074,No
+,,,,model_pairwise_comparison.csv,,,,Technocratic_Framing_Score,ChatGPT,Gemini,5491.5,1.4743170025447796e-05,-0.355925925925926,Yes
+,,,,model_pairwise_comparison.csv,,,,US_Distinctive_Term_Frequency,ChatGPT,Gemini,6515.0,1.7790290575933005e-12,-0.6086419753086421,Yes

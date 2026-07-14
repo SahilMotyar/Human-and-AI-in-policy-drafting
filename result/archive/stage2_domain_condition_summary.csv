@@ -1,0 +1,10 @@
+domain,condition,n,bert_mean,jsd_mean,tfidf_mean
+Air Pollution,Innovation,20,0.5892,0.7038,0.7429
+Air Pollution,Status Quo,20,0.6151,0.6406,0.5384
+Air Pollution,Unconstrained,20,0.6006,0.6566,0.6109
+Data Protection,Innovation,20,0.6256,0.6405,0.3422
+Data Protection,Status Quo,20,0.678,0.5182,0.178
+Data Protection,Unconstrained,20,0.6485,0.5622,0.2243
+National Security,Innovation,20,0.5871,0.69,0.7311
+National Security,Status Quo,20,0.6564,0.5466,0.4478
+National Security,Unconstrained,20,0.5977,0.6599,0.6637

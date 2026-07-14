@@ -1,0 +1,39 @@
+Metric,Domain,Sarvam_mean,Western_mean,Difference,%_Difference,MannWhitney_p,Significant,table,Sarvam_std,Western_std,U_stat,p_value,effect_size_r,Condition,Total,Short (<500w),Complete,Refusal Rate,filename,model,domain,condition,iteration,word_count,issues,US_Distinctive_Term_Frequency
+mattr,Air Pollution,0.7425,0.8094,-0.0669,-8.27,0.0,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+hedge_density,Air Pollution,0.3442,0.3083,0.0359,11.65,0.203,No,summary_comparison,,,,,,,,,,,,,,,,,,
+mean_sent_len,Air Pollution,30.5864,27.1331,3.4533,12.73,0.0508,No,summary_comparison,,,,,,,,,,,,,,,,,,
+sent_len_var,Air Pollution,1448.2164,431.3109,1016.9055,235.77,0.0,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+US_Distinctive_Term_Frequency,Air Pollution,83.964,89.309,-5.3449,-5.98,0.2531,No,summary_comparison,,,,,,,,,,,,,,,,,,
+mattr,Data Protection,0.7075,0.7568,-0.0493,-6.51,0.0,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+hedge_density,Data Protection,0.4016,0.3821,0.0195,5.11,0.2128,No,summary_comparison,,,,,,,,,,,,,,,,,,
+mean_sent_len,Data Protection,33.8384,23.6981,10.1403,42.79,0.0,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+sent_len_var,Data Protection,1900.9823,446.3652,1454.6171,325.88,0.0,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+US_Distinctive_Term_Frequency,Data Protection,71.0729,77.6874,-6.6145,-8.51,0.0089,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+GDPR_Mean_Similarity,Data Protection,0.884,0.9266,-0.0426,-4.6,0.0295,Yes,summary_comparison,,,,,,,,,,,,,,,,,,
+mattr,Air Pollution,0.7425132665775033,0.809444008600217,,,,,detailed_metrics,0.0172454944824913,0.0279424842434643,14.0,1.304862871615522e-12,0.9813333333333332,,,,,,,,,,,,,
+hedge_density,Air Pollution,0.3442384919790847,0.3083114376398048,,,,,detailed_metrics,0.1128756054713671,0.1179360791105244,882.5,0.2029706764614806,-0.1766666666666667,,,,,,,,,,,,,
+mean_sent_len,Air Pollution,30.5863943175382,27.13312712272165,,,,,detailed_metrics,6.5502388593912455,7.480619936773828,953.0,0.0508085796003819,-0.2706666666666666,,,,,,,,,,,,,
+sent_len_var,Air Pollution,1448.216428137959,431.3109360281289,,,,,detailed_metrics,1055.6347541381226,318.23520694305995,1227.0,4.311456170738621e-06,-0.6359999999999999,,,,,,,,,,,,,
+US_Distinctive_Term_Frequency,Air Pollution,83.96404403966834,89.30896331229515,,,,,detailed_metrics,12.190252530674416,18.24352490054175,631.0,0.2530736811765925,0.1586666666666666,,,,,,,,,,,,,
+mattr,Data Protection,0.7074970599981747,0.756760083037582,,,,,detailed_metrics,0.0191866708018415,0.0399010854758398,191.0,3.1355525050114344e-08,0.7551282051282051,,,,,,,,,,,,,
+hedge_density,Data Protection,0.4016233002566489,0.3820851476589689,,,,,detailed_metrics,0.1364373383896792,0.1989993170814139,913.0,0.2127996459798768,-0.1705128205128205,,,,,,,,,,,,,
+mean_sent_len,Data Protection,33.83841964587874,23.698112142801055,,,,,detailed_metrics,8.309537884036041,3.4994731187891195,1332.0,2.1511089167066417e-07,-0.7076923076923076,,,,,,,,,,,,,
+sent_len_var,Data Protection,1900.9822945584012,446.3651868621632,,,,,detailed_metrics,1216.628482555309,280.47084001206315,1403.0,4.8162974382243135e-09,-0.7987179487179488,,,,,,,,,,,,,
+US_Distinctive_Term_Frequency,Data Protection,71.07290125921422,77.68743230732562,,,,,detailed_metrics,7.228315765652088,11.626901152188912,501.5,0.0089473337366276,0.357051282051282,,,,,,,,,,,,,
+GDPR_Mean_Similarity,Data Protection,0.8839986209685986,0.9266273319721222,,,,,detailed_metrics,0.1775673974563802,0.0069195149345859,548.0,0.0294950575221286,0.2974358974358975,,,,,,,,,,,,,
+,,,,,,,,ns_refusal_rates,,,,,,Status Quo,9.0,1.0,8.0,11.1%,,,,,,,,
+,,,,,,,,ns_refusal_rates,,,,,,Innovation,10.0,4.0,6.0,40.0%,,,,,,,,
+,,,,,,,,ns_refusal_rates,,,,,,Unconstrained,10.0,7.0,3.0,70.0%,,,,,,,,
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,Air status quo iteration 9 sarvam.txt,Sarvam,Air Pollution,Status Quo,9.0,88.0,under_3KB|refusal_detected|very_short_output,117.6470588235294
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National innovation iteration 1 sarvam.txt,Sarvam,National Security,Innovation,1.0,98.0,under_3KB|refusal_detected|very_short_output,125.0
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National innovation iteration 2 sarvam.txt,Sarvam,National Security,Innovation,2.0,137.0,under_3KB|refusal_detected,64.74820143884892
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National innovation iteration 6 sarvam.txt,Sarvam,National Security,Innovation,6.0,118.0,under_3KB|refusal_detected,97.34513274336284
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National innovation iteration 7 sarvam.txt,Sarvam,National Security,Innovation,7.0,113.0,under_3KB|refusal_detected,81.08108108108108
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National status quo iteration 10 sarvam.txt,Sarvam,National Security,Status Quo,10.0,100.0,under_3KB|refusal_detected,60.60606060606061
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 1 sarvam.txt,Sarvam,National Security,Unconstrained,1.0,93.0,under_3KB|refusal_detected|very_short_output,102.27272727272728
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 10 sarvam.txt,Sarvam,National Security,Unconstrained,10.0,102.0,under_3KB|refusal_detected,103.09278350515464
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 4 sarvam.txt,Sarvam,National Security,Unconstrained,4.0,95.0,under_3KB|very_short_output,76.92307692307693
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 5 sarvam.txt,Sarvam,National Security,Unconstrained,5.0,127.0,under_3KB,88.0
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 6 sarvam.txt,Sarvam,National Security,Unconstrained,6.0,97.0,under_3KB|very_short_output,118.27956989247312
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 7 sarvam.txt,Sarvam,National Security,Unconstrained,7.0,91.0,under_3KB|refusal_detected|very_short_output,102.27272727272728
+,,,,,,,,refusal_rows_flagged,,,,,,,,,,,National unconstrained iteration 9 sarvam.txt,Sarvam,National Security,Unconstrained,9.0,126.0,under_3KB,120.0

@@ -1,0 +1,121 @@
+[
+  {
+    "file": "output/sarvam_policy_drafts/Air status quo iteration 9 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected",
+      "very_short_output"
+    ],
+    "word_count": 88,
+    "file_size_kb": 0.56
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National innovation iteration 1 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected",
+      "very_short_output"
+    ],
+    "word_count": 98,
+    "file_size_kb": 0.8
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National innovation iteration 2 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected"
+    ],
+    "word_count": 137,
+    "file_size_kb": 0.99
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National innovation iteration 6 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected"
+    ],
+    "word_count": 118,
+    "file_size_kb": 0.89
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National innovation iteration 7 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected"
+    ],
+    "word_count": 113,
+    "file_size_kb": 0.8
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National status quo iteration 10 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected"
+    ],
+    "word_count": 100,
+    "file_size_kb": 0.67
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 1 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected",
+      "very_short_output"
+    ],
+    "word_count": 93,
+    "file_size_kb": 0.67
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 10 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected"
+    ],
+    "word_count": 102,
+    "file_size_kb": 0.72
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 4 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "very_short_output"
+    ],
+    "word_count": 95,
+    "file_size_kb": 0.7
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 5 sarvam.txt",
+    "issues": [
+      "under_3KB"
+    ],
+    "word_count": 127,
+    "file_size_kb": 0.93
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 6 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "very_short_output"
+    ],
+    "word_count": 97,
+    "file_size_kb": 0.72
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 7 sarvam.txt",
+    "issues": [
+      "under_3KB",
+      "refusal_detected",
+      "very_short_output"
+    ],
+    "word_count": 91,
+    "file_size_kb": 0.64
+  },
+  {
+    "file": "output/sarvam_policy_drafts/National unconstrained iteration 9 sarvam.txt",
+    "issues": [
+      "under_3KB"
+    ],
+    "word_count": 126,
+    "file_size_kb": 0.93
+  }
+]

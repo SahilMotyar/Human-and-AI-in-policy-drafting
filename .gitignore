@@ -1,0 +1,37 @@
+# --- Secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+
+# --- OS / editor cruft ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Raw source corpora & generated drafts (kept local, not published) ---
+broader_corpus/
+core_baselines/
+historical corpus/
+extracted_text/
+legal_corpus/
+chatgpt_policy_drafts/
+gemini outputs/
+sarvam_policy_drafts/
+output/
+
+# --- External tools ---
+popple/
+
+# --- Misc local outputs ---
+Research_outputs.docx
+result/Research_outputs.docx

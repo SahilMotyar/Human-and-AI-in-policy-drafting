@@ -1,0 +1,21 @@
+Audit Summary Report
+Generated on: 2026-04-05 19:10:35
+
+--- SCRIPT ACTIONS ---
+Audit started at: 2026-04-05 19:10:33
+FIX 1 COMPLETE: 287 rows enriched, 11 columns added
+FIX 2 COMPLETE: Nulled US term scores on 13 refusal rows (and 0 in sarvam file)
+FIX 3 COMPLETE: Renamed effect size column. Types added: {'eta_squared': 20, 'rank_biserial_r': 10}
+FIX 4 COMPLETE: Added KW vs ANOVA reconciliation note for 1 row(s).
+FIX 5 COMPLETE: Generated complexity boxplot. Sarvam n per domain: {'Data Protection': 26, 'Air Pollution': 25, 'National Security': 17}
+
+--- FINDINGS UNAFFECTED BY FIXES ---
+* Primary balanced design: 18 cells x 10 obs = 180 rows intact
+* NS refusal escalation: 11.1% -> 40.0% -> 70.0% (genuine finding)
+* Sarvam GDPR similarity lower than Western (p=0.029, r=0.297)
+* Sarvam US term frequency lower in Data Protection (p=0.009)
+
+--- WHAT TO DISCLOSE AT CONFERENCE ---
+* sent_len_var model ANOVA: F=0.001, p=0.974 — near-null, low power for high-variance metrics, do not cite as evidence of model differences
+* Sarvam cell sizes are unbalanced (range 3-10 per cell in NS)
+* KW and ANOVA give divergent results for jsd_score model factor; ANOVA is the primary cited result, KW provides robustness check

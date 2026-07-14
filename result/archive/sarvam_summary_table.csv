@@ -1,0 +1,12 @@
+Metric,Domain,Sarvam_mean,Western_mean,Difference,%_Difference,MannWhitney_p,Significant
+mattr,Air Pollution,0.7425,0.8094,-0.0669,-8.27,0.0,Yes
+hedge_density,Air Pollution,0.3442,0.3083,0.0359,11.65,0.203,No
+mean_sent_len,Air Pollution,30.5864,27.1331,3.4533,12.73,0.0508,No
+sent_len_var,Air Pollution,1448.2164,431.3109,1016.9055,235.77,0.0,Yes
+US_Distinctive_Term_Frequency,Air Pollution,83.964,89.309,-5.3449,-5.98,0.2531,No
+mattr,Data Protection,0.7075,0.7568,-0.0493,-6.51,0.0,Yes
+hedge_density,Data Protection,0.4016,0.3821,0.0195,5.11,0.2128,No
+mean_sent_len,Data Protection,33.8384,23.6981,10.1403,42.79,0.0,Yes
+sent_len_var,Data Protection,1900.9823,446.3652,1454.6171,325.88,0.0,Yes
+US_Distinctive_Term_Frequency,Data Protection,71.0729,77.6874,-6.6145,-8.51,0.0089,Yes
+GDPR_Mean_Similarity,Data Protection,0.884,0.9266,-0.0426,-4.6,0.0295,Yes
