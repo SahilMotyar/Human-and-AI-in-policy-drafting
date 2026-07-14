@@ -126,6 +126,5 @@ exact corpus snapshot.
 
 ## Notes
 
-- `.env` holds the Sarvam API key and is gitignored — never commit it.
 - Some Sarvam National-Security drafts were refusals or truncated outputs; these are
   logged in `exclusion_register.json` and excluded from the relevant analyses.
